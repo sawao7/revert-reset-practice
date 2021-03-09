@@ -1,1 +1,1 @@
-間違えた# revert-reset-practice
+# revert-reset-practice
